@@ -1,7 +1,7 @@
 package ArbolAVLConMetodosPorConsola;
 /**
  *
- * @author Andres Roman
+ * @author Maximo Paute
  */
 public class Nodo {
     int dato, factor; // dato del nodo y factor de equilibrio

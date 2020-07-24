@@ -1,7 +1,7 @@
 package ArbolAVLConMetodosPorConsola;
 /**
  *
- * @author Andres Roman
+ * @author Maximo Paute
  */
 public class Metodos {
     // punteros

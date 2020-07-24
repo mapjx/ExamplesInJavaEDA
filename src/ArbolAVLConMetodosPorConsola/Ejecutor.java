@@ -2,7 +2,7 @@ package ArbolAVLConMetodosPorConsola;
 import java.util.Scanner;
 /**
  *
- * @author Andres Roman
+ * @author Maximo Paute
  */
 public class Ejecutor {
     // metodo main
