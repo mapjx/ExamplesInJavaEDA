@@ -1,5 +1,5 @@
 
-package ArbolAVL;
+package ArbolAVLGUI;
 
 import java.util.ArrayList;
 import javax.swing.JPanel;

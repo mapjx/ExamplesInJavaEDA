@@ -1,5 +1,5 @@
 
-package ArbolAVL;
+package ArbolAVLGUI;
 
   /**
  *

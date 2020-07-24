@@ -1,4 +1,4 @@
-package ArbolAVL;
+package ArbolAVLGUI;
 
 import java.awt.BorderLayout;
 import java.awt.Rectangle;
